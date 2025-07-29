@@ -42,16 +42,12 @@ It provides a REST API endpoint `/bfhl` that accepts a JSON POST request with an
 gh repo clone vanshika501/Bajaj_Assignment
 cd Bajaj_Assignment
 
-
 2. Install dependencies:
 npm install
-
 
 ### Running Locally
 
 Start the server:
 npm start
-
-text
 
 The API will be accessible at `http://localhost:8000/bfhl`.

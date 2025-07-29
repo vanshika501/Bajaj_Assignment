@@ -39,15 +39,13 @@ It provides a REST API endpoint `/bfhl` that accepts a JSON POST request with an
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+gh repo clone vanshika501/Bajaj_Assignment
+cd Bajaj_Assignment
 
-text
 
 2. Install dependencies:
 npm install
 
-text
 
 ### Running Locally
 
